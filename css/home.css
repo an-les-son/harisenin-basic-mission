@@ -86,7 +86,6 @@ nav .nav-login {
 /* Footer */
 
 .footer {
-    width: 100%;
     background-color: black;
     color: white;
     text-align: center;
@@ -95,5 +94,5 @@ nav .nav-login {
 
 .footer p {
     line-height: 5px;
-    font-size: 11px;
+    font-size: 14px;
 }
