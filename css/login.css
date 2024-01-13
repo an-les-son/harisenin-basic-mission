@@ -1,0 +1,43 @@
+.content-login {
+    width: 80%;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-login h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 42px;
+    color:#a14135;
+    /* text-align: center; */
+}
+
+.content-login p {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    color:#a14135;
+}
+
+.content-login input {
+    width: 300px;
+    height: 42px;
+    background-color: #D9D9D9;
+    border: none;
+    border-radius: 25px;
+}
+
+button {
+    width: 150px;
+    padding: 10px;
+    background-color: #a14135;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
