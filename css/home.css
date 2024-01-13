@@ -20,13 +20,6 @@ nav {
     font-size: 32px;
 }
 
-.logo {
-    width: 60px;
-    height: 60px;
-    background-image: url(../assets/logo.png);
-    background-size: 60px 60px;
-}
-
 nav ol li {
     list-style: none;
     display: inline-block;

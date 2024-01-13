@@ -1,0 +1,45 @@
+.content-container {
+    width: 60%;
+    background-color: #D9D9D9;
+    border-radius: 25px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 50px auto;
+    padding: 0 20px;
+    display: flex;
+}
+
+.content-image {
+    text-align: left;
+    margin: 20px;
+}
+
+.content-disc {
+    text-align: left;
+    margin: 20px;
+}
+
+.content-disc .desc {
+    font-weight: bold;
+    margin-top: 80px;
+}
+
+.content-container h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+}
+
+.price {
+    font-size: 48px;
+}
+
+button {
+    width: 100px;
+    padding: 10px;
+    background-color: #a14135;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 18px;
+}
