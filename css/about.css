@@ -1,0 +1,15 @@
+.content-about {
+    width: 80%;
+    margin: 100px auto;
+}
+
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 42px;
+    color:#a14135;
+}
+
+.p-about {
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+}
