@@ -1,0 +1,30 @@
+.content-contact {
+    width: 80%;
+    margin: 100px auto;
+}
+
+.content-contact h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 42px;
+    color:#a14135;
+}
+
+.content-contact h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 32px;
+    color:#a14135;
+}
+
+.content-contact .p-contact {
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+}
+
+.content-contact .line-contact {
+    display: flex;
+    align-items: center;
+}
+
+.content-contact .line-contact .p-contact {
+    margin: 20px;
+}
